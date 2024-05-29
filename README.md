@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/@chandrimaroych8" target="blank"><img src="https://img.shields.io/twitter/follow/@chandrimaroych8?logo=twitter&style=for-the-badge" alt="@chandrimaroych8" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me **chowdhurychandrimaroy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
